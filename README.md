@@ -8,3 +8,16 @@ Tanner Weinacker & Noah Stile's College Capstone
 
 # Documentation
 > Below will include research and helpful guides conducted and created by Tanner Weinacker & Noah Stiles
+
+## AWS Organization
+
+## Billing
+
+## Account Creation (Organization and IAM)
+
+### Roles
+### Groups
+### 
+
+## Policies (SCP and IAM)
+
