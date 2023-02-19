@@ -8,11 +8,12 @@ Tanner Weinacker & Noah Stile's College Capstone
 
 # Documentation
 > Below will include research and helpful guides conducted and created by Tanner Weinacker & Noah Stiles
-
-<details><summary>AWS Organization</summary>
+<details><summary>CLICK ME</summary>
 <p>
-## AWS Organization
+  <h1> AWS Organization</h1>
+  
 [Networking](https://github.com/TannerWeinacker/Capstone/wiki/Networking)
+<details><summary>CLICK ME</summary>
 </p>
 ## Billing
 
