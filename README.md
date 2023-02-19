@@ -10,7 +10,7 @@ Tanner Weinacker & Noah Stile's College Capstone
 > Below will include research and helpful guides conducted and created by Tanner Weinacker & Noah Stiles
 
 ## AWS Organization
-[[Networking]]
+
 ## Billing
 
 ## Account Creation (Organization and IAM)
