@@ -8,20 +8,20 @@ Tanner Weinacker & Noah Stile's College Capstone
 
 # Documentation
 > Below will include research and helpful guides conducted and created by Tanner Weinacker & Noah Stiles
-<details><summary>CLICK ME</summary>
+<details><summary>Organizations</summary>
 <p>
   <h1> AWS Organization</h1>
   
 [Networking](https://github.com/TannerWeinacker/Capstone/wiki/Networking)
-<details><summary>CLICK ME</summary>
+<details><summary>Organization Features and Documentation</summary>
 </p>
-## Billing
+<h2>Billing</h2>
 
-## Account Creation (Organization and IAM)
+<h2> Account Creation (Organization and IAM)</h2>
 
-### Roles
-### Groups
+<h3>Roles</h3>
+<h3> Groups</h3>
 ### 
 
-## Policies (SCP and IAM)
+<h2> Policies (SCP and IAM)</h2>
 
